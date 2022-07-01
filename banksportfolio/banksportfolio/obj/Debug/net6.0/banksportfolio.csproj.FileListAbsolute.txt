@@ -1,0 +1,15 @@
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\bin\Debug\net6.0\banksportfolio.exe
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\bin\Debug\net6.0\banksportfolio.deps.json
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\bin\Debug\net6.0\banksportfolio.runtimeconfig.json
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\bin\Debug\net6.0\banksportfolio.dll
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\bin\Debug\net6.0\banksportfolio.pdb
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\obj\Debug\net6.0\banksportfolio.csproj.AssemblyReference.cache
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\obj\Debug\net6.0\banksportfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\obj\Debug\net6.0\banksportfolio.AssemblyInfoInputs.cache
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\obj\Debug\net6.0\banksportfolio.AssemblyInfo.cs
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\obj\Debug\net6.0\banksportfolio.csproj.CoreCompileInputs.cache
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\obj\Debug\net6.0\banksportfolio.dll
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\obj\Debug\net6.0\refint\banksportfolio.dll
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\obj\Debug\net6.0\banksportfolio.pdb
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\obj\Debug\net6.0\banksportfolio.genruntimeconfig.cache
+C:\Workspace\Projetos\Bank's Portfolio\code\banksportfolio\banksportfolio\banksportfolio\obj\Debug\net6.0\ref\banksportfolio.dll
